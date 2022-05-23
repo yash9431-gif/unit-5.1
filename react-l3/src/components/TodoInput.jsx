@@ -10,7 +10,7 @@ const TodoInput = ({addTodo}) => {
              onChange={(e)=>{setValue(e.target.value)}} />
           
 
-          <button onClick={() => {
+      <button onClick={() => {
              
               addTodo(value)
               setValue("")
