@@ -17,8 +17,7 @@ const Parent = () => {
 //       </div>
       
 //   )
-    
-    return (
+ return (
         <div>
             parent:{childValue}
             <Child1  childValue={childValue}  setChildValue={setChildValue}/>
