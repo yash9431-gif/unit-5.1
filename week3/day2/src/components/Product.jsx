@@ -22,7 +22,11 @@ const Product = () => {
 
   return (
       <div>Product ID :{id}
-          <div>{product.title}</div>
+          <div>Name:{product.name}
+              <br/>
+             
+          price:{product.price}
+          </div>
       </div>
   )
 }
