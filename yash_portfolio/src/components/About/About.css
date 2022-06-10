@@ -1,0 +1,22 @@
+.abouthead{
+    background-color: rgb(144, 132, 132);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    width: 1000px;
+    margin: auto;
+
+}
+h2{
+    line-height: 1.5;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    color: white;
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+        /* text-align: start; */
+        margin-left: 20px;
+        text-align: justify;
+        margin-right: 20px;
+  
+}
+h1:hover{
+  color: red;
+}

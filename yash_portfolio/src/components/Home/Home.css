@@ -1,0 +1,45 @@
+
+
+h1{
+    font-size: 70px;
+}
+h3{
+    font-size: 40px;
+}
+.p1{
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.name{
+    color: blue;
+}
+
+.all-btn {
+    width: 300px;
+    height: 300px;
+     
+    display: flex;
+   margin: auto;
+}
+
+.resume{
+
+    width: 180px;
+        height: 40px;
+        background-color: plum;
+        color: blue;
+        border: 1px solid black;
+      
+}
+
+.linkedin1{
+    width:80px;
+        height: 40px;
+       border: 1px solid black;
+       margin-left: 20px;
+
+}
+
+

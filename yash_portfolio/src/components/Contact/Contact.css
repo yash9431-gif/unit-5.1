@@ -1,0 +1,11 @@
+.contactmain{
+   
+    height: 610px;
+    background-color: grey;
+}
+
+.contactinfo{
+    width: 500px;
+    height: 500px;
+    border: 1px solid red;
+}
