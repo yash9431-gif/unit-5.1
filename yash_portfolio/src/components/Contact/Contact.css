@@ -1,11 +1,39 @@
 .contactmain{
    
     height: 610px;
-    background-color: grey;
+   
+   
 }
 
 .contactinfo{
     width: 500px;
     height: 500px;
     border: 1px solid red;
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+     margin: auto;
+     margin-top: 30px;
+    
+   
+}
+
+.contactinfo>a>img{
+  width: 200px;
+  height: 80px;
+  margin-top: 40px;
+  margin-right: 10px;
+
+ 
+    
+
+}
+.phone{
+    display: flex;
+    margin-left: 180px;
+    margin-top: 30px;
+}
+
+.phone>img{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
 }
